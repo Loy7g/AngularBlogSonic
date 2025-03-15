@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: #121212;
+  color: #E0E0E0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #E0E0E0;
+  text-shadow: 0 0 10px #0066ff, 0 0 20px #00AFFF, 0 0 30px #0077CC;
+}
+
+
+a{
+  color: #00AFFF;
+  transition: color 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF4500;
+}
+
