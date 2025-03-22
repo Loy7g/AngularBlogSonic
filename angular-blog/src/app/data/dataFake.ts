@@ -3,7 +3,7 @@ export const dataFake = [
     "id":"1",
     "title": "Sonic vs. Shadow: O Confronto Épico Chega às Telonas",
     "description": "No terceiro filme da franquia, Sonic, Tails e Knuckles unem forças para enfrentar Shadow, um ouriço criado pelo avô do Dr. Robotnik, Gerald Robotnik, que busca vingança contra a humanidade. Dirigido por Jeff Fowler, o filme conta com a volta de Jim Carrey como Dr. Robotnik e a estreia de Keanu Reeves como a voz de Shadow. A trama explora a origem de Shadow, mantendo elementos dos videogames, e introduz criaturas como os Chao. Lançado em 25 de dezembro de 2024 no Brasil, o filme recebeu críticas positivas, destacando as performances de Carrey e Reeves. Com um orçamento de US$ 122 milhões, arrecadou US$ 486 milhões mundialmente, tornando-se o filme de maior bilheteria da franquia e o segundo filme baseado em videogame de maior bilheteria de todos os tempos. Uma sequência já está em desenvolvimento, com lançamento previsto para 19 de março de 2027.",
-    "photoCover":"https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/sonic-3-filme-e1724765794391.jpg"
+    "photoCover":"https://i.ytimg.com/vi/VLs8wUySOvU/maxresdefault.jpg"
   },
   {
     "id":"2",
@@ -15,7 +15,7 @@ export const dataFake = [
     "id":"3",
     "title": "Knuckles Ganha Série Solo na Paramount+ que tem Conexão a Sonic 3",
     "description": "A série 'Knuckles' estreou no Paramount+ como um spin-off de 'Sonic 2: O Filme', centrando-se no personagem Knuckles, dublado por Idris Elba. Situada entre os eventos de 'Sonic 2' e 'Sonic 3', a trama acompanha Knuckles enquanto ele treina Wade Whipple, interpretado por Adam Pally, nos caminhos dos guerreiros Echidna. A série quebrou recordes de audiência na plataforma, tornando-se a maior estreia de uma produção original do serviço de streaming. Além de Elba e Pally, o elenco conta com Tika Sumpter como Maddie e outros atores renomados. A produção recebeu elogios por expandir o universo de Sonic e aprofundar a história de Knuckles.",
-    "photoCover":"https://sm.ign.com/ign_br/screenshot/default/imagem-2024-04-29-165941580_cyz3.jpg"
+    "photoCover":"https://celebspe.com.br/wp-content/uploads/2024/04/not-15-3.png"
   },
   {
     "id":"4",
