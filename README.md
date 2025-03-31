@@ -29,9 +29,10 @@ Para aprimorar a aparência do blog, foi incluído um **placeholder decorativo**
 ## 🖥️ Capturas de Tela
 A seguir, algumas imagens demonstrando a execução do projeto:
 
-![Screenshot 2025-03-15 072111](https://github.com/user-attachments/assets/c14e2aa5-b520-4d25-9f05-e1758ce14715)
+![image](https://github.com/user-attachments/assets/7339f9e3-c7bd-4926-88c4-eab2a76310f2)
 
-![Screenshot 2025-03-15 072141](https://github.com/user-attachments/assets/f798d2a1-bd9b-4f68-8387-484ab9fc7591)
+![image](https://github.com/user-attachments/assets/01c996d8-639c-4c16-9934-59afc3ccd34e)
+
 
 
 
