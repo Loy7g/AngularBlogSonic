@@ -25,6 +25,7 @@ O projeto foi organizado para garantir modularidade e reutilização de componen
 
 ## 🎯 Melhorias Adicionadas
 Para aprimorar a aparência do blog, foi incluído um **placeholder decorativo**. Além disso, os links das redes sociais agora possuem a configuração **`target="_blank"`**, permitindo que sejam abertos em uma nova aba.
+Vou implementar um banco de dados usando MongoDB e adicionar mais guias
 
 ## 🖥️ Capturas de Tela
 A seguir, algumas imagens demonstrando a execução do projeto:
